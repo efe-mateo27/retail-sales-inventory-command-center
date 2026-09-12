@@ -1,3 +1,13 @@
+## Dashboard Preview
+
+### Power BI
+
+![Power BI Retail Sales Dashboard](dashboards/powerbi/retail_sales_inventory_dashboard.jpeg)
+
+### Tableau
+
+![Tableau Retail Sales Dashboard](dashboards/tableau/retail_sales_dashboard.jpeg)
+
 # Retail Sales & Store Performance Analysis
 
 I built this project to analyse retail sales performance across more than 1,000 stores and understand what factors are linked with stronger sales.
