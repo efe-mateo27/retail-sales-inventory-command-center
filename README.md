@@ -2,7 +2,7 @@
 
 ### Power BI
 
-![Power BI Retail Sales Dashboard](dashboards/powerbi/retail_sales_inventory_dashboard.jpeg)
+![Power BI Retail Sales Dashboard](dashboards/powerbi/retail_sales_inventory_dashboard.jpg)
 
 ### Tableau
 
